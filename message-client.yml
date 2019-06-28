@@ -1,5 +1,0 @@
-log:
-  warning:
-    text: "Hello, World, warning!"
-  error:
-    text: "Runtime Exception"
