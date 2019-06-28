@@ -1,5 +1,5 @@
 log:
   warning:
-    text: 'Hello, World, warning!'
+    text: "Hello, World, warning!"
   error:
-    text: 'Runtime Exception'
+    text: "Runtime Exception"
